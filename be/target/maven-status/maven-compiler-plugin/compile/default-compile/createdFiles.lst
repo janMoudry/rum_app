@@ -1,0 +1,17 @@
+com/rum/rum/app/models/RumDetail.class
+com/rum/rum/app/config/JpaConfig.class
+com/rum/rum/app/utils/CreateSpecification.class
+com/rum/rum/app/RumAppApplication.class
+com/rum/rum/app/enums/RumTypeDestilation.class
+com/rum/rum/app/controllers/test.class
+com/rum/rum/app/config/WebMvcConfig.class
+com/rum/rum/app/models/FilterByDTO.class
+com/rum/rum/app/config/BasicAutentifications.class
+com/rum/rum/app/controllers/RumController.class
+com/rum/rum/app/services/RumService.class
+com/rum/rum/app/enums/FilterBy.class
+com/rum/rum/app/models/Aromas.class
+com/rum/rum/app/utils/ResponseHandler.class
+com/rum/rum/app/models/FilterParamsDTO.class
+com/rum/rum/app/repositories/RumRepository.class
+com/rum/rum/app/enums/CurrencyEnum.class
